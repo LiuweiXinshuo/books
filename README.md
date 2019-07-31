@@ -15,6 +15,8 @@
 > 12. Openssl编程      
 > 13. Python面向对象编程        
 > 14. Python核心编程      
-> 15. go高级编程      
+> 15. go高级编程     
+> 16. linux-unix 编程实践
+> 17. OpenCV 计算机视觉编程攻略    
 
 
